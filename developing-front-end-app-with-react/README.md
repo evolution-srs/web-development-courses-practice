@@ -1,6 +1,6 @@
 ### Description:
 --- 
-This folder contain the following labs modules:  
+This folder contains labs for the following modules:  
 
 * Introduction to React and Class Components.
   
