@@ -1,6 +1,6 @@
 ### Description:
 ---
-This folder contain the following labs practices:  
+This folder contains the following labs practices:  
 
 1. Hands-on Lab: Working with Array Iteration for Restaurant Menu List.
    
