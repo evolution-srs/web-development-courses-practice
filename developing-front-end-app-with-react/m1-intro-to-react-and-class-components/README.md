@@ -1,6 +1,6 @@
 ### Description:
 --- 
-This folder contains  the following labs:    
+This folder contains the following labs:    
 
 1. Lab: Hello World with React.
   
