@@ -1,6 +1,6 @@
 ### Description:
 ---
-This folder contains the following subfolders for prcticing this course's lab:
+This folder contains the following subfolders for prcticing this modules' labs:
 * Introduction to JavaScript Development
 * Arrays and Objects in JavaScript
 * Working with DOM in JavaScript
