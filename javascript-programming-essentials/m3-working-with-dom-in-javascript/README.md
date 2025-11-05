@@ -1,6 +1,6 @@
 ### Description:
 ---
-This folder contain the following labs practices:  
+This folder contains the following labs practices:  
 
 1. Hands-on Lab: Debug a JavaScript Application in Chrome Dev Tools.
 2. Hands-on Lab: Create a To-Do List Using JavaScript.
